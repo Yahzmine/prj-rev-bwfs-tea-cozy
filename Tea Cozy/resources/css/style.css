@@ -1,0 +1,70 @@
+/* Universal Styles */
+
+body {
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
+  text-align: center;
+}
+
+header {
+  position: fixed;
+  border-bottom: 1px solid seashell;
+  height: 69px;
+  background-color: black;
+  width: 100%;
+}
+
+.links {
+  text-decoration: underline;
+  text-align: right;
+  color: white;
+}
+
+.logo {
+  height: 50px;
+  align-items: left;
+  padding-left: 10px;
+}
+
+.Our-Mission {
+  background color: black;
+  width: 1200px;
+  height: 700px;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
+  text-align: center;
+}
+
+.Main-Content {
+  text-align: center;
+}
+
+.Content-Images {
+  width: 300px;
+  height: 200px;
+  padding-bottom: 10px;
+}
+.Locations {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
+  height: 500px;
+  padding: 15px 40px;
+}
+.Downtown {
+  height: 500px;
+  padding: 15px 40px;
+  color: black;
+}
+
+.East-Bayside {
+  height: 500px;
+  padding: 15px 40px;
+  color: black;
+}
+
+.Oakdale {
+  height: 500px;
+  padding: 15px 40px;
+  color: black;
+}
